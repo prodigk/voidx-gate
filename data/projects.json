@@ -1,6 +1,18 @@
 {
-  "syncedAt": "2026-10-10T14:39:04.259Z",
+  "syncedAt": "2026-11-24T15:38:19.822Z",
   "sites": [
+    {
+      "name": "argon-project",
+      "url": "https://argon-project-nu.vercel.app/",
+      "updatedAt": 1793671489348,
+      "httpStatus": 200
+    },
+    {
+      "name": "voidx-rovelle-site",
+      "url": "https://voidx-rovelle-site.vercel.app/",
+      "updatedAt": 1795530586567,
+      "httpStatus": 200
+    },
     {
       "name": "voidx-bookreview",
       "url": "https://voidx-bookreview.vercel.app/",
