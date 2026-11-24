@@ -1,0 +1,26 @@
+# Upload only the source and configuration needed to build the site.
+/*
+!/app
+!/data
+!/public
+!/next.config.ts
+!/package.json
+!/package-lock.json
+!/tsconfig.json
+
+# Exclude credentials and local artifacts even inside source directories.
+.env*
+*.env
+.vercel
+.aws
+.ssh
+.netrc
+.npmrc
+credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+*.log
+*.tsbuildinfo

@@ -1,0 +1,26 @@
+# Dependencies and generated output
+node_modules/
+.next/
+out/
+coverage/
+next-env.d.ts
+*.tsbuildinfo
+
+# Local environment, deployment metadata, and credentials
+.env*
+*.env
+.vercel/
+.aws/
+.ssh/
+.netrc
+.npmrc
+credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local files
+.DS_Store
+*.log
+/DESIGN-cohere.md

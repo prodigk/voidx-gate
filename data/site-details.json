@@ -1,0 +1,80 @@
+{
+  "voidx-bookreview": {
+    "title": "Book Review",
+    "description": "도서 서평으로 만드는 책 소개 카드뉴스 스튜디오",
+    "category": "Tool",
+    "icon": "bookreview"
+  },
+  "voidx-trading": {
+    "title": "Trading Center",
+    "description": "트레이딩 도구를 만들어가는 프로젝트 · 작업 중",
+    "category": "Tool",
+    "icon": "trading"
+  },
+  "khakish": {
+    "title": "강의실 템플릿",
+    "description": "시각 언어와 디자인을 배우는 온라인 강의 아카이브",
+    "category": "Learning",
+    "icon": "classroom"
+  },
+  "ugenbook": {
+    "title": "Ugen's 책장",
+    "description": "책과 함께 쌓아가는 생각의 기록",
+    "category": "Library",
+    "icon": "library"
+  },
+  "voidx-bookscript-agent": {
+    "title": "Bookscript Studio",
+    "description": "도서 노트를 바탕으로 설계하는 영상 대본",
+    "category": "Tool",
+    "icon": "bookscript"
+  },
+  "interactive-catalog": {
+    "title": "Interactive Catalog",
+    "description": "인터랙티브 카탈로그 프로젝트",
+    "category": "Experiment",
+    "icon": "catalog"
+  },
+  "voidx-japanese-flashcard": {
+    "title": "Japanese Flashcards",
+    "description": "플래시카드로 익히는 일본어",
+    "category": "Learning",
+    "icon": "flashcards"
+  },
+  "voidx-analysis-youtube": {
+    "title": "YouTube Insight",
+    "description": "데이터로 살펴보는 유튜브 채널과 콘텐츠",
+    "category": "Tool",
+    "icon": "youtube"
+  },
+  "ngorongoro-holding": {
+    "title": "응고롱고로",
+    "description": "동물과 자연이 어우러진 감성 일러스트 소품샵",
+    "category": "Brand",
+    "icon": "ngorongoro"
+  },
+  "ngorongoro": {
+    "title": "응고롱고로 Vercel",
+    "description": "응고롱고로의 별도 Vercel 프로젝트",
+    "category": "Brand",
+    "icon": "ngorongoro-web"
+  },
+  "voidx-site": {
+    "title": "Studio voidx",
+    "description": "브랜드의 다음 장면을 만드는 Framer 디자인 스튜디오",
+    "category": "Studio",
+    "icon": "studio"
+  },
+  "ngoro-insta": {
+    "title": "응고롱고로 Content Studio",
+    "description": "응고롱고로의 인스타그램 콘텐츠 제작 도구",
+    "category": "Tool",
+    "icon": "content-studio"
+  },
+  "project-codex": {
+    "title": "Nightfall Arcade",
+    "description": "다양한 게임의 세계를 탐색하는 아케이드 포털",
+    "category": "Experiment",
+    "icon": "arcade"
+  }
+}

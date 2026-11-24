@@ -1,0 +1,83 @@
+{
+  "syncedAt": "2026-10-10T14:39:04.259Z",
+  "sites": [
+    {
+      "name": "voidx-bookreview",
+      "url": "https://voidx-bookreview.vercel.app/",
+      "updatedAt": 1794207859493,
+      "httpStatus": 200
+    },
+    {
+      "name": "voidx-trading",
+      "url": "https://voidx-trading.vercel.app/",
+      "updatedAt": 1791640588959,
+      "httpStatus": 200
+    },
+    {
+      "name": "ugenbook",
+      "url": "https://ugenbook.vercel.app/",
+      "updatedAt": 1791129750281,
+      "httpStatus": 200
+    },
+    {
+      "name": "voidx-bookscript-agent",
+      "url": "https://voidx-bookscript-agent.vercel.app/",
+      "updatedAt": 1791186937053,
+      "httpStatus": 200
+    },
+    {
+      "name": "voidx-analysis-youtube",
+      "url": "https://voidxy.vercel.app/",
+      "updatedAt": 1782814129716,
+      "httpStatus": 200
+    },
+    {
+      "name": "khakish",
+      "url": "https://khakish.vercel.app/",
+      "updatedAt": 1790827323478,
+      "httpStatus": 200
+    },
+    {
+      "name": "ngorongoro-holding",
+      "url": "https://www.ngorongoro.kr/",
+      "updatedAt": 1782287174560,
+      "httpStatus": 200
+    },
+    {
+      "name": "ngorongoro",
+      "url": "https://ngorongoro.vercel.app/",
+      "updatedAt": 1782287171760,
+      "httpStatus": 200
+    },
+    {
+      "name": "ngoro-insta",
+      "url": "https://ngoro-insta.vercel.app/",
+      "updatedAt": 1791046833596,
+      "httpStatus": 200
+    },
+    {
+      "name": "voidx-site",
+      "url": "https://voidx-site.vercel.app/",
+      "updatedAt": 1779540930363,
+      "httpStatus": 200
+    },
+    {
+      "name": "voidx-japanese-flashcard",
+      "url": "https://voidx-japanese-flashcard.vercel.app/",
+      "updatedAt": 1790922048444,
+      "httpStatus": 200
+    },
+    {
+      "name": "interactive-catalog",
+      "url": "https://interactive-catalog.vercel.app/",
+      "updatedAt": 1790846993169,
+      "httpStatus": 200
+    },
+    {
+      "name": "project-codex",
+      "url": "https://project-codex-sepia.vercel.app/",
+      "updatedAt": 1779182903019,
+      "httpStatus": 200
+    }
+  ]
+}
